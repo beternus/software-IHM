@@ -1,4 +1,4 @@
-[b]Human-Machine Interface and Control[/b]
+Human-Machine Interface and Control
 
 The interface was built in Easy Builder, an IDE to development of softwares to run in IHMs that control equipments.
 
