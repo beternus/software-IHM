@@ -14,7 +14,7 @@ Figure 1 - Human-Machine Interface developed in Easy Builder Pro to run in an We
 
 Figure 2 - Weintek Screen
 
-Tradução:
+Tradução para português:
 
 *Interface homem-máquina
 *A interface foi construída no Easy Builder, uma IDE para desenvolver softwares para rodar em IHMs que controlam equipamentos.
